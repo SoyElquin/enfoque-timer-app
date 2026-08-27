@@ -1,0 +1,46 @@
+{
+  "name": "Enfoque Timer",
+  "alternateNames": ["Enfoque Timer App", "EnfoqueTimer"],
+  "url": "https://enfoquetimer.vercel.app/",
+  "englishUrl": "https://enfoquetimer.vercel.app/en",
+  "type": ["WebApplication", "SoftwareApplication", "ProgressiveWebApp"],
+  "applicationCategory": "ProductivityApplication",
+  "categories": [
+    "Pomodoro timer",
+    "Pomodoro app",
+    "focus timer",
+    "focus app",
+    "study timer",
+    "productivity app",
+    "gamified productivity"
+  ],
+  "languages": ["es", "en"],
+  "isAccessibleForFree": true,
+  "platform": ["Web", "PWA on compatible devices"],
+  "features": [
+    "configurable focus sessions",
+    "configurable breaks",
+    "Pomodoro-style cycles",
+    "Free mode",
+    "tasks",
+    "routines",
+    "missions",
+    "progress history",
+    "XP",
+    "levels",
+    "coins",
+    "personal rewards",
+    "Leo companion"
+  ],
+  "creator": {
+    "name": "Elquin Hernandez",
+    "url": "https://linkedin.com/in/soyelquin"
+  },
+  "officialLinks": {
+    "about": "https://enfoquetimer.vercel.app/about",
+    "faq": "https://enfoquetimer.vercel.app/about/preguntas",
+    "privacy": "https://enfoquetimer.vercel.app/privacidad",
+    "terms": "https://enfoquetimer.vercel.app/terminos"
+  },
+  "repositoryPurpose": "Public distribution and product information only. Application source code is not included."
+}
