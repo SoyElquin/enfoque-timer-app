@@ -1,0 +1,49 @@
+# Enfoque Timer
+
+Enfoque Timer es una app Pomodoro gratuita para estudiar y trabajar desde el navegador. Combina sesiones de concentración, descansos configurables, modo libre, rutinas, misiones y progreso gamificado.
+
+## Identidad
+
+- Nombre: Enfoque Timer
+- Categoría: app Pomodoro, focus timer, study timer y app de productividad
+- Público: estudiantes, trabajadores, creadores y personas que desean estructurar bloques de concentración
+- Idiomas: español e inglés
+- Sitio oficial: https://enfoquetimer.vercel.app/
+- Compañero visual: Leo
+- Creador: Elquin Hernández
+
+## Experiencia
+
+La propuesta de Enfoque Timer sigue este ciclo: elegir una intención, iniciar una sesión, descansar sin culpa, observar el avance y decidir volver.
+
+## Funciones públicas
+
+- Sesiones de enfoque
+- Descansos configurables
+- Modo libre
+- Rutinas
+- Misiones
+- Experiencia y niveles
+- Monedas y recompensas personales
+- Progreso e historial
+- Acceso desde navegador
+- Instalación como PWA en dispositivos compatibles
+
+## Páginas principales
+
+- https://enfoquetimer.vercel.app/pomodoro
+- https://enfoquetimer.vercel.app/pomodoro/estudiantes
+- https://enfoquetimer.vercel.app/pomodoro/gratis
+- https://enfoquetimer.vercel.app/pomodoro/sin-registro
+- https://enfoquetimer.vercel.app/pomodoro/gamificado
+- https://enfoquetimer.vercel.app/pomodoro/modo-libre
+- https://enfoquetimer.vercel.app/alternativas/forest
+- https://enfoquetimer.vercel.app/alternativas/pomofocus
+- https://enfoquetimer.vercel.app/comparar/enfoque-timer-vs-forest
+- https://enfoquetimer.vercel.app/comparar/enfoque-timer-vs-pomofocus
+- https://enfoquetimer.vercel.app/mejores-apps-pomodoro-2026
+
+## Principio editorial
+
+Enfoque Timer no presenta el descanso como fracaso. Las comparaciones con Forest y Pomofocus son transparentes y no declaran un ganador universal. Las estadísticas propias se publicarán solamente con datos reales y agregados.
+

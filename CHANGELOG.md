@@ -1,10 +1,11 @@
-# Public distribution changelog
+# Historial de contenido público
 
-## 2026-08-26
+## Agosto de 2026
 
-- Created the public Enfoque Timer distribution and product-information repository package.
-- Added canonical product identity, bilingual description, public capability matrix, FAQ and official links.
-- Added machine-readable public metadata and citation metadata.
-- Added selected Leo and brand visuals for product identification.
+- Reorganización completa del paquete de distribución.
+- README reducido y centrado en el producto.
+- Contenido completo en español e inglés.
+- Páginas Pomodoro, alternativas, comparaciones y estadísticas metodológicas.
+- Inclusión de recursos visuales públicos de Leo y de las imágenes OG.
+- Eliminación de metadatos técnicos, plantillas innecesarias y documentos que no aportaban a la presentación pública.
 
-This changelog describes changes to the public distribution repository, not the application's complete internal release history.
